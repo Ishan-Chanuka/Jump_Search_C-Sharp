@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\C#\\jump_search\\jump_search.csproj": {}
+    "E:\\Project\\C#\\Jump_Search_C-Sharp\\jump_search.csproj": {}
   },
   "projects": {
-    "E:\\Project\\C#\\jump_search\\jump_search.csproj": {
+    "E:\\Project\\C#\\Jump_Search_C-Sharp\\jump_search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\C#\\jump_search\\jump_search.csproj",
+        "projectUniqueName": "E:\\Project\\C#\\Jump_Search_C-Sharp\\jump_search.csproj",
         "projectName": "jump_search",
-        "projectPath": "E:\\Project\\C#\\jump_search\\jump_search.csproj",
+        "projectPath": "E:\\Project\\C#\\Jump_Search_C-Sharp\\jump_search.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\C#\\jump_search\\obj\\",
+        "outputPath": "E:\\Project\\C#\\Jump_Search_C-Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

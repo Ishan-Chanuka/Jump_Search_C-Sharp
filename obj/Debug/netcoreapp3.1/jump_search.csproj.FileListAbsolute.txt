@@ -11,3 +11,16 @@ E:\Project\C#\jump_search\obj\Debug\netcoreapp3.1\jump_search.csproj.CoreCompile
 E:\Project\C#\jump_search\obj\Debug\netcoreapp3.1\jump_search.dll
 E:\Project\C#\jump_search\obj\Debug\netcoreapp3.1\jump_search.pdb
 E:\Project\C#\jump_search\obj\Debug\netcoreapp3.1\jump_search.genruntimeconfig.cache
+E:\Project\C#\Jump_Search_C-Sharp\bin\Debug\netcoreapp3.1\jump_search.exe
+E:\Project\C#\Jump_Search_C-Sharp\bin\Debug\netcoreapp3.1\jump_search.deps.json
+E:\Project\C#\Jump_Search_C-Sharp\bin\Debug\netcoreapp3.1\jump_search.runtimeconfig.json
+E:\Project\C#\Jump_Search_C-Sharp\bin\Debug\netcoreapp3.1\jump_search.runtimeconfig.dev.json
+E:\Project\C#\Jump_Search_C-Sharp\bin\Debug\netcoreapp3.1\jump_search.dll
+E:\Project\C#\Jump_Search_C-Sharp\bin\Debug\netcoreapp3.1\jump_search.pdb
+E:\Project\C#\Jump_Search_C-Sharp\obj\Debug\netcoreapp3.1\jump_search.csproj.AssemblyReference.cache
+E:\Project\C#\Jump_Search_C-Sharp\obj\Debug\netcoreapp3.1\jump_search.AssemblyInfoInputs.cache
+E:\Project\C#\Jump_Search_C-Sharp\obj\Debug\netcoreapp3.1\jump_search.AssemblyInfo.cs
+E:\Project\C#\Jump_Search_C-Sharp\obj\Debug\netcoreapp3.1\jump_search.csproj.CoreCompileInputs.cache
+E:\Project\C#\Jump_Search_C-Sharp\obj\Debug\netcoreapp3.1\jump_search.dll
+E:\Project\C#\Jump_Search_C-Sharp\obj\Debug\netcoreapp3.1\jump_search.pdb
+E:\Project\C#\Jump_Search_C-Sharp\obj\Debug\netcoreapp3.1\jump_search.genruntimeconfig.cache

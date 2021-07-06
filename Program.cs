@@ -8,9 +8,9 @@ namespace jump_search
         {
 
             int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            int key = 7;
+            int key = 5;
 
-            int result = Convert.ToInt32(jumpSearch(array, key));
+            int result = jumpSearch(array, key);
 
             Console.WriteLine(result);
 
@@ -22,11 +22,32 @@ namespace jump_search
 
             int jump = (int)Math.Floor(Math.Sqrt(len));
 
+            int previous = 0;
 
-            for (int i=0; i<len; i += jump)
+            //find the block
+            while(arr[Math.Min(jump, len) - 1] < key)
             {
-               
+                previous = jump;
+                jump += (int)Math.Floor(Math.Sqrt(len));
+
+                if (previous >= len)
+                    return -1;
             }
+            //linear search
+            while(arr[previous] < key)
+            {
+                previous++;
+
+                if (arr[previous] == key)
+                    return previous;
+
+                if (previous == Math.Min(jump, len))
+                    return -1;
+            }
+            //item found
+            
+
+            
             return -1;
         }
     }
